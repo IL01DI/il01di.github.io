@@ -1,3 +1,9 @@
+@media (prefers-color-scheme: dark) {
+    .myClass {
+    background-color: black;
+    }
+}
+
 html, body {
 
     margin: 0;
