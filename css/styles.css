@@ -11286,3 +11286,26 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+
+/* Dark mode */
+@media (prefers-color-scheme: dark) {
+	body {
+		background-color: black;
+		color: white;
+	}
+	header {
+		background-color: #1c1c1e;
+	}
+	.button {
+		background-color: #111;
+		color: white;
+	}
+	a.github {
+		background-color: #cacaca1a;
+		color: #cacaca;
+	}
+	.card {
+		background-color: #111;
+		color: white;
+	}
+}
