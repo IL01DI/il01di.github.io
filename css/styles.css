@@ -11293,7 +11293,7 @@ textarea.form-control-lg {
 		background-color: black;
 		color: white;
 	}
-	.navbar-expand {
+	.navbar .navbar-expand-lg .navbar-light .bg-light {
 		background-color: #1c1c1e;
     color: white;
 	}
