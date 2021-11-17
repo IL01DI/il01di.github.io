@@ -11309,4 +11309,15 @@ textarea.form-control-lg {
 		background-color: #111;
 		color: white;
 	}
+
+  .navbar .navbar-expand-lg .navbar-light .bg-light {
+    visibility: hidden;
+    position: relative;
+    }
+    
+    .navbar .navbar-expand-lg .navbar-dark .bg-dark:after {
+    visibility: visible;
+    content: "This text replaces the original.";
+    }
+    
 }
