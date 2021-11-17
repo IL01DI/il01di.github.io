@@ -11293,10 +11293,13 @@ textarea.form-control-lg {
 		background-color: black;
 		color: white;
 	}
-	.navbar-light .bg-light {
-		background-color: #1c1c1e;
-    color: white;
-	}
+	.bg-light {
+    --bs-bg-opacity: 1;
+    background-color: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity)) !important;
+  }
+  .navbar-light {
+    color: #fff;
+  }
 	.button {
 		background-color: #111;
 		color: white;
@@ -11309,15 +11312,4 @@ textarea.form-control-lg {
 		background-color: #111;
 		color: white;
 	}
-
-  .navbar-light .bg-light {
-    visibility: hidden;
-    position: relative;
-  }
-    
-  .navbar-dark .bg-dark:after {
-    visibility: visible;
-    position:fixed;
-  }
-    
 }
