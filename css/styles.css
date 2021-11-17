@@ -11293,7 +11293,7 @@ textarea.form-control-lg {
 		background-color: black;
 		color: white;
 	}
-	.navbar .navbar-expand-lg .navbar-light .bg-light {
+	.navbar-light .bg-light {
 		background-color: #1c1c1e;
     color: white;
 	}
@@ -11310,14 +11310,14 @@ textarea.form-control-lg {
 		color: white;
 	}
 
-  .navbar .navbar-expand-lg .navbar-light .bg-light {
+  .navbar-light .bg-light {
     visibility: hidden;
     position: relative;
     }
     
-    .navbar .navbar-expand-lg .navbar-dark .bg-dark:after {
+  .navbar-dark .bg-dark:after {
     visibility: visible;
-    content: "This text replaces the original.";
+    position:fixed;
     }
     
 }
