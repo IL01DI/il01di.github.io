@@ -11313,11 +11313,11 @@ textarea.form-control-lg {
   .navbar-light .bg-light {
     visibility: hidden;
     position: relative;
-    }
+  }
     
   .navbar-dark .bg-dark:after {
     visibility: visible;
     position:fixed;
-    }
+  }
     
 }
