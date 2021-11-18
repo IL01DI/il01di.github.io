@@ -11250,8 +11250,9 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
 
-  .button{
+.button {
     background-color:#111;
     color:#fff;
     margin-left:.5rem;
@@ -11325,7 +11326,6 @@ textarea.form-control-lg {
   .card .card-text{
     padding-top:.2rem;opacity:.7
   }
-}
 
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
