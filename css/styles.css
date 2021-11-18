@@ -11250,6 +11250,16 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+
+  .button {
+    background-color: #111;
+    color: #fff;
+    margin-left: 0.5rem;
+    padding: 0.5rem 1rem;
+    border-radius: 0.5rem;
+    text-decoration: none;
+}
+
 }
 
 /* Dark mode */
