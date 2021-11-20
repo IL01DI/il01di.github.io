@@ -11284,6 +11284,8 @@ p.no-behave-link {
 }
 .media {
   text-align: center;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 /* Dark mode */
