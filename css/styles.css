@@ -11267,9 +11267,8 @@ p.no-behave-link {
 .badge.discord {
   background: #5865f2
 }
-
 .badge.twitter {
-  background: #1da1f1;
+  background: rgb(29, 155, 240);
 }
 .badge.reddit {
   background: #fe4500;
