@@ -11251,6 +11251,38 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.badge {
+  display: block;
+  border-radius: 50px;
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+  color: white;
+  display: inline;
+  color: white;
+  opacity: 1;
+  cursor: pointer;
+  margin: 7px;
+}
+
+.badge:hover {
+  opacity: 0.8;
+}
+.badge.twitter {
+  background: #1da1f1;
+}
+.badge.reddit {
+  background: #fe4500;
+}
+.badge.youtube {
+  background: #fe0000;
+}
+.badge.github {
+  background: #23282e;
+}
+.badge.email {
+  background: #444;
+}
 
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
