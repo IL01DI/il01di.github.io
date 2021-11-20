@@ -11293,7 +11293,7 @@ p.no-behave-link {
 }
 .badge.github {
   background: #23282e;
-  color:var(--color-header-logo);
+  color:var(#ffffff);
 }
 .badge.email {
   background: #444;
