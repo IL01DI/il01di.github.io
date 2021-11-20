@@ -11294,7 +11294,7 @@ p.no-behave-link {
 		background-color: #111;
 		color: white;
 	}
-	a.github {
+	.badge.github {
 		background-color: #cacaca1a;
 		color: #cacaca;
 	}
