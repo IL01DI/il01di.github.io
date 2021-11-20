@@ -234,10 +234,6 @@ sup {
   top: -0.5em;
 }
 
-a {
-  color: #0d6efd;
-  text-decoration: underline;
-}
 a:hover {
   opacity: 0.6;
 }
