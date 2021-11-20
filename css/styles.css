@@ -11264,6 +11264,10 @@ p.no-behave-link {
   color: black;
 }
 
+.badge.discord {
+  background: #5865f2
+}
+
 .badge.twitter {
   background: #1da1f1;
 }
@@ -11286,7 +11290,7 @@ p.no-behave-link {
 		background-color: black;
 		color: white;
 	}
-	.button {
+	.badge {
 		background-color: #111;
 		color: white;
 	}
