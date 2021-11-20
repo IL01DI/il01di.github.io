@@ -11257,6 +11257,16 @@ a {
   opacity: 0.8;
   color: #0056ff;
 }
+a:hover {
+  opacity: 0.6;
+}
+.no-behave-link {
+  opacity: 1;
+  color: black;
+}
+p.no-behave-link {
+  color: black;
+}
 .badge {
   display: block;
   border-radius: 50px;
