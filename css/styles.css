@@ -11269,9 +11269,6 @@ p.no-behave-link {
   color: black;
 }
 
-.badge:hover {
-  opacity: 0.8;
-}
 .badge.twitter {
   background: #1da1f1;
 }
