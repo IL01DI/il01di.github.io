@@ -11282,6 +11282,9 @@ p.no-behave-link {
 .badge.email {
   background: #444;
 }
+.media {
+  text-align: center;
+}
 
 /* Dark mode */
 @media (prefers-color-scheme: dark) {
