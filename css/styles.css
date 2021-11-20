@@ -4858,7 +4858,7 @@ textarea.form-control-lg {
   white-space: nowrap;
   vertical-align: baseline;
   cursor: pointer;
-  margin-left:.5rem;
+  margin:7px;
   padding:.5rem 1rem;
   border-radius:.5rem;
   text-decoration:none;
