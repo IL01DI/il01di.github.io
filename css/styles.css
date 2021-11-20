@@ -11268,17 +11268,12 @@ p.no-behave-link {
   color: black;
 }
 .badge {
-  display: block;
-  border-radius: 50px;
-  padding: 10px;
-  padding-left: 20px;
-  padding-right: 20px;
-    /* color: white; */
-    /* display: inline; */
-    color: white;
-    /* opacity: 1; */
-    /* cursor: pointer; */
-    margin: 7px;
+  background-color:#111;
+  color:#fff;
+  margin-left:.5rem;
+  padding:.5rem 1rem;
+  border-radius:.5rem;
+  text-decoration:none
 }
 .badge:hover {
   opacity: 0.8;
