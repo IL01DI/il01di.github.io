@@ -4852,6 +4852,7 @@ textarea.form-control-lg {
 
 
 .badge {
+  background-color: #111;
   color: #fff;
   text-align: center;
   white-space: nowrap;
@@ -4860,7 +4861,8 @@ textarea.form-control-lg {
   margin-left:.5rem;
   padding:.5rem 1rem;
   border-radius:.5rem;
-  text-decoration:none
+  text-decoration:none;
+  opacity: 1
 }
 .badge:empty {
   display: none;
