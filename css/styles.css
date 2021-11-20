@@ -239,7 +239,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: #0a58ca;
+  opacity: 0.6;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -11260,9 +11260,6 @@ a {
   opacity: 0.8;
   color: #0056ff;
 }
-a:hover {
-  opacity: 0.6;
-}
 .no-behave-link {
   opacity: 1;
   color: black;
@@ -11293,7 +11290,6 @@ p.no-behave-link {
 }
 .badge.github {
   background: #23282e;
-  color:var(#ffffff);
 }
 .badge.email {
   background: #444;
