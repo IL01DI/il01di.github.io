@@ -11284,6 +11284,7 @@ p.no-behave-link {
 }
 .media {
   text-align: center;
+  padding-right: 10px;
   display: flex;
   flex-wrap: wrap;
 }
