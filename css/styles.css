@@ -3,9 +3,9 @@ html{
 }
 body{
   background-color:#fff;
-color:#000;
-margin:0;
-padding:0
+  color:#000;
+  margin:0;
+  padding:0
 }
 section:not(:first-child){
   margin-top:2%
@@ -49,34 +49,36 @@ p{
   text-decoration:none
 }
 .button i, .button svg{
-margin-right:2px
+  margin-right:2px
 }
 .button svg{
-margin-bottom:-3px;
-  width:1rem;height:1rem
+  margin-bottom:-3px;
+  width:1rem;
+  height:1rem
 }
 a.twitter{
-background-color:#4299e11a;
-  color:#4299e1}
+  background-color:#4299e11a;
+  color:#4299e1
+}
 a.github{
-background-color:rgba(54,54,54,.1);
+  background-color:rgba(54,54,54,.1);
   color:#363636
 }
 a.repo{
-background-color:#42c9e11a;
+  background-color:#42c9e11a;
   color:#2cb1be
 }
 section.body{
-max-width:1000px;
+  max-width:1000px;
   padding:3rem;
   margin:auto}
 .cards{
-display:grid;
+  display:grid;
   grid-gap:1.5rem;
   grid-template-columns:repeat(3,1fr)
 }
 .card{
-position:relative;
+  position:relative;
   display:block;
   background-color:#f6f6f6;
   color:#000;
@@ -86,34 +88,38 @@ position:relative;
   padding-bottom:1rem
 }
 .card img.card-icon{
-position:absolute;
-  width:150px;height:150px;
-  top:37.5px;left:50%;
+  position:absolute;
+  width:150px;
+  height:150px;
+  top:37.5px;
+  left:50%;
   margin-left:-75px;
   border-radius:15px
 }
 .card p{
-padding-left:1rem;
+  padding-left:1rem;
   padding-right:1rem
 }
 .card .card-category{
-padding-top:.5rem;
+  padding-top:.5rem;
   opacity:.6;
   font-size:.8rem
 }
 .card .card-title{
-padding-top:.2rem;
-  font-size:1.2rem;font-weight:500
+  padding-top:.2rem;
+  font-size:1.2rem;
+  font-weight:500
 }
 .card .card-text{
-padding-top:.2rem;
+  padding-top:.2rem;
   opacity:.7
 }
 @media screen and (max-width:768px){
   header{
     text-align:center;
     padding:3rem;
-    padding-left:10px;padding-right:10px
+    padding-left:10px;
+    padding-right:10px
   }
   header img{
     float:none
@@ -128,18 +134,22 @@ padding-top:.2rem;
 }
 @media(prefers-color-scheme:dark){
   body{
-    background-color:#000;color:#fff
+    background-color:#000;
+    color:#fff
   }
   header{
     background-color:#1c1c1e
   }
   .button{
-    background-color:#111;color:#fff
+    background-color:#111;
+    color:#fff
   }
   a.github{
-    background-color:#cacaca1a;color:#cacaca
+    background-color:#cacaca1a;
+    color:#cacaca
   }
   .card{
-    background-color:#111;color:#fff
+    background-color:#111;
+    color:#fff
   }
 }
