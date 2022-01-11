@@ -2,4 +2,4 @@
 
 The first website created by myself.
 
-Go to https://l01d.github.io or https://l01d.netlify.app
+Go to https://il01di.github.io or https://l01d.netlify.app
