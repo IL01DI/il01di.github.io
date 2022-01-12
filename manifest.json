@@ -1,0 +1,21 @@
+{
+  "name": "L01D",
+  "short_name": "L01D",
+  "start_url": "index.html",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "/assets/img/3E8D482F-425D-4B8F-9BBE-F2EBD87BB30B.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/img/3E8D482F-425D-4B8F-9BBE-F2EBD87BB30B.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ffd31d",
+  "background_color": "#333",
+  "display": "standalone"
+}
