@@ -1,7 +1,4 @@
 This is a Brave Rewards publisher verification file.
 
-Domain: l01d.netlify.app
-Token: a5163d7f9cb8c14cb4914da2061e3226b87b1c6ee2c3f46cdadda45d4acf27f9
-
 Domain: il01di.github.io
 Token: 7f15fcc9087e26f272c1573df2bf5642d8b3b5123243b92503da3337b3a17966
