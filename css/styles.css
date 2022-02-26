@@ -80,6 +80,10 @@ a.discord{
   background-color:rgba(88,101,242,.2);
   color:#5865f2e6
 }
+a.youtube{
+    color: rgb(255, 59, 48);
+    background-color: rgba(255, 59, 48, 0.1);
+}
 
 section.body{
   max-width:1000px;
