@@ -1,1 +1,1 @@
-iOS Repo Template used by [repo.me](https://github.com/arceseus/repo.me)
+iOS Repo Template used with [repo.me](https://github.com/arceseus/repo.me)
