@@ -64,10 +64,13 @@ a.github{
   background-color:rgba(54,54,54,.1);
   color:#363636
 }
-
 a.reddit{
   background-color:rgba(255,67,0,.2);
   color:#ff4300e6
+}
+a.discord{
+  background-color:rgba(88,101,242,.2);
+  color:#5865f2e6
 }
 
 section.body{
