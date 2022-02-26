@@ -65,8 +65,8 @@ p{
   height:1rem
 }
 a.twitter{
-  background-color:#4299e11a;
-  color:#4299e1
+  background: rgba(29,155,240,.2);
+  color: #1d9bf0;
 }
 a.github{
   background-color:rgba(54,54,54,.1);
@@ -74,15 +74,15 @@ a.github{
 }
 a.reddit{
   background-color:rgba(255,67,0,.2);
-  color:#ff4300e6
+  color:#ff4300
 }
 a.discord{
   background-color:rgba(88,101,242,.2);
-  color:#5865f2e6
+  color:##5865f2
 }
 a.youtube{
-    color: rgb(255, 59, 48);
-    background-color: rgba(255, 59, 48, 0.1);
+  color: rgb(255, 59, 48);
+  background-color: rgba(255, 59, 48, 0.1);
 }
 
 section.body{
