@@ -29,6 +29,8 @@ header img{
 .links{
   margin-top:2rem
     display: flex;
+  flex-wrap: wrap;
+
 
 }
 .title{
