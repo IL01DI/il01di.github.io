@@ -5,12 +5,12 @@
   "scope": "./",
   "icons": [
     {
-      "src": "/assets/img/logo.jpg",
+      "src": "/assets/img/3E8D482F-425D-4B8F-9BBE-F2EBD87BB30B.png",
       "sizes": "192x192",
       "type": "image/jpg"
     },
     {
-      "src": "/assets/img/logo.jpg",
+      "src": "/assets/img/3E8D482F-425D-4B8F-9BBE-F2EBD87BB30B.png",
       "sizes": "512x512",
       "type": "image/jpg"
     }
