@@ -30,8 +30,7 @@ header img{
   margin-top:2rem
     display: flex;
   flex-wrap: wrap;
-
-
+  justify-content: center;
 }
 .title{
   font-size:3rem;
