@@ -1,0 +1,42 @@
+$white: rgba(255, 255, 255);
+$red: rgb(255, 69, 58);
+$orange: rgb(255, 159, 10);
+$yellow: rgb(255, 214, 10);
+$green: rgb(48, 209, 88);
+$mint: rgb(102, 212, 207);
+$teal: rgb(64, 200, 224);
+$cyan: rgb(100, 210, 255);
+$blue: rgb(10, 132, 255);
+$indigo: rgb(94, 92, 230);
+$purple: rgb(191, 90, 242);
+$pink: rgb(255, 55, 95);
+$brown: rgb(172, 142, 104);
+$gray: rgb(242, 242, 247);
+$graydark: rgb(28, 28, 30);
+$discord: rgb(88, 101, 242);
+$twitter: rgb(29, 155, 240);
+$github: rgb(23, 21, 21);
+$reddit: rgb(255, 67, 0);
+
+
+$colors: (
+    "white": $white,
+    "red": $red,
+    "orange": $orange,
+    "yellow": $yellow,
+    "green": $green,
+    "mint": $mint,
+    "teal": $teal,
+    "cyan": $cyan,
+    "blue": $blue,
+    "indigo": $indigo,
+    "purple": $purple,
+    "pink": $pink,
+    "brown": $brown,
+    "gray": $gray,
+    "graydark": $graydark,
+    "discord": $discord,
+    "twitter": $twitter,
+    "github": $github,
+    "reddit": $reddit
+)
