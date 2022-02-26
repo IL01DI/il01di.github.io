@@ -13,4 +13,8 @@
 body{margin:80px 0 35px 0}
 /*# sourceMappingURL=ios7.min.css.map */
 
-@media (prefers-color-scheme: dark) {html{background:#000}.subpixel-line,body>header:after,hr,ul li:after,ul:after,ul:before{background: #343438}ul{background:#1c1c1e;color: #fff} ul li [role=button]:active,ul li [role=button]:focus,ul li [role=link]:active,ul li [role=link]:focus{background-color:#3a3a3c}}
+@media (prefers-color-scheme: dark) 
+{
+ html{background:#000}.subpixel-line,body>header:after,hr,ul li:after,ul:after,ul:before{background: #343438}ul{background:#1c1c1e;color: #fff} ul li [role=button]:active,ul li [role=button]:focus,ul li [role=link]:active,ul li [role=link]:focus{background-color:#3a3a3c}
+ body>header h1{background-color: #3a3a3c;}
+}
