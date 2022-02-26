@@ -65,6 +65,11 @@ a.github{
   color:#363636
 }
 
+a.reddit{
+  background-color:rgba(255,67,0,.8);
+  color:#ff4300
+}
+
 section.body{
   max-width:1000px;
   padding:3rem;
